@@ -1,0 +1,70 @@
+    header {
+        font-family: 'Minecraft', sans-serif;
+
+        display: flex;
+        justify-content: space-between;
+        background: linear-gradient(90deg, rgba(247, 241, 241, 0.7) 0%, rgba(174, 140, 242, 0.8) 100%);
+        align-items:center
+    }
+
+
+
+
+    
+
+
+
+    body {
+
+        background-image: url(/imagenes/fondo.jpg)
+    }
+
+
+
+    .ul1 {
+        font-family: 'Minecraft', sans-serif;
+
+
+        background: linear-gradient(0deg, rgba(34, 57, 195, 1) 0%, rgba(246, 45, 253, 1) 100%);
+        ;
+        list-style-type: none;
+        display: flex;
+        justify-content: space-between;
+
+        padding-top: 0.25%;
+        padding-bottom: 0.25%;
+        margin: 0%;
+
+
+
+
+    }
+
+    li {
+        color: aliceblue;
+
+    }
+
+
+    .ofertas {
+        display: flex;
+        justify-content: center;
+        
+        margin-top: 5%;
+        background: linear-gradient(0deg, rgba(104, 34, 195, 0.486) 0%, rgba(45, 253, 208, 0.534) 100%);
+        color: aliceblue;
+        text-decoration: underline;
+
+    }
+
+
+    footer a {
+        display: flex;
+        justify-content: center;
+        align-items: flex-end;
+
+
+    }
+
+
+    img {}
